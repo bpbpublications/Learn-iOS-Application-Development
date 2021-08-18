@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Show"; ObjectID = "SII-9Y-xoX"; */
+"SII-9Y-xoX.normalTitle" = "Spectacle";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "a5v-FU-e9W"; */
+"a5v-FU-e9W.text" = "Pays";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "cNd-Kk-ket"; */
+"cNd-Kk-ket.normalTitle" = "Terminé";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "zkE-5C-BoI"; */
+"zkE-5C-BoI.text" = "Nom";
